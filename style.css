@@ -202,3 +202,15 @@ footer {
   font-family: "Arimo", sans-serif;
   font-size: 14px;
 }
+
+/*media queries */
+/*Alterando a imagem de fundo baseado na largura do dispositívo*/
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.png);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.png);
+  }
+}
