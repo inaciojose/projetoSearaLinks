@@ -55,6 +55,9 @@ body {
 
   /*Propriedades em atalho(ShortHand)*/
   /*background: url(./assets/background-mobile.png) no-repeat top center/cover;*/
+
+  /*Faz com que a altura do body se adapte a altura da viewport do dispositivo*/
+  height: 100vh;
 }
 
 body * {
