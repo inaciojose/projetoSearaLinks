@@ -5,7 +5,7 @@
 }
 
 :root {
-  --bg-url: url(./assets/background-mobile.png);
+  --bg-url: url(./assets/background-mobile.jpg);
   --surface-color: linear-gradient(135deg, #fdd403, #fe6f02);
   --surface-color-hover: linear-gradient(135deg, #fad419de, #f8720be5);
   --border-color: rgba(255, 222, 0, 0.8);
@@ -26,7 +26,7 @@
 }
 
 .light {
-  --bg-url: url(./assets/background-mobile-light.png);
+  --bg-url: url(./assets/background-mobile-light.jpg);
   --surface-color: linear-gradient(90deg, #ff3131, #ff914d);
   --surface-color-hover: linear-gradient(90deg, #ff3131ee, #ff914dee);
   --border-color: rgba(0, 0, 0, 0.6);
@@ -210,10 +210,10 @@ footer {
 /*Alterando a imagem de fundo baseado na largura do dispositívo*/
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/bg-desktop.png);
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
 
   .light {
-    --bg-url: url(./assets/bg-desktop-light.png);
+    --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
