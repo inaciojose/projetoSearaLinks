@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Seara Links é um agregador de links para usar como cartão de visitas online, com intuito de levá-lo(a) onde quiser ir dentro do ecossistema de redes sociais, páginas, site e contatos.
 
-- [Acesse o projeto finalizado, online])
+- [Acesse o projeto finalizado, online](https://inaciojose.github.io/projetoSearaLinks/)
 
 ---
